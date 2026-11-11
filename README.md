@@ -10,7 +10,7 @@ Smart Urban Transportation & Fleet Analytics
 - Vikram Sathyanarayana Bhat (Project Lead & System Architect): Coordinates overall pipeline integration, manages the GitHub repository, and ensures project deliverables stay on track.
 - Rakshitha (Data Engineer): Handles data ingestion pipelines, streaming setups, and data cleaning schemas for incoming transit logs.
 - Anusha (Data Analyst): Works on exploratory data analysis (EDA), batch processing workflows, and ETA estimation logic.
-- Praneet (Visualization & Reporting Developer): Builds the reporting dashboard, fleet tracking maps, and key performance metrics.
+- Praneeth (Visualization & Reporting Developer): Builds the reporting dashboard, fleet tracking maps, and key performance metrics.
 - Farhan Khan Sir (Project Guide): Provides guidance, feedback, and milestone reviews throughout the project.
 
 ## 3. Problem Statement
